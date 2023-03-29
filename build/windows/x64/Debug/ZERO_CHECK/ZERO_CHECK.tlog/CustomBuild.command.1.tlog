@@ -1,0 +1,10 @@
+^C:\MPT\FLUTTERSECONDSEMESTR\FINANCE_APPLICATION\BUILD\WINDOWS\CMAKEFILES\3B84F8C838588C5F6DFD4F9D442B6E37\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/MPT/fluttersecondsemestr/finance_application/windows -BC:/MPT/fluttersecondsemestr/finance_application/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/MPT/fluttersecondsemestr/finance_application/build/windows/finances_application.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

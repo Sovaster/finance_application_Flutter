@@ -1,0 +1,9 @@
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/data/icudtl.dat
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/flutter_windows.dll
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/MPT/fluttersecondsemestr/finance_application/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
